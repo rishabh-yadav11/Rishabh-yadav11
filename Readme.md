@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working to get into cybersecurity<br>🌱 I’m currently learning about networking<br>⚡ Fun fact There’s enough gold inside Earth to coat the planet
+🔭 I’m currently working to get into cybersecurity<br>🌱 I’m currently learning about windows Active directory<br>⚡ Fun fact There’s enough gold inside Earth to coat the planet
 
 # 💻 Tech Stack:
 
