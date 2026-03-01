@@ -1,11 +1,135 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
+<h3 align="center">VAPT Analyst | Junior Penetration Tester | Cybersecurity Analyst</h3>
 
-🔭 I’m currently working to get into cybersecurity<br>🌱 I’m currently learning about windows Active directory<br>⚡ Fun fact There’s enough gold inside Earth to coat the planet
+<p align="center">
+  <a href="mailto:rishabhyadav621@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/rishabh-yadav-oct">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://my-writeup.pages.dev">
+    <img src="https://img.shields.io/badge/Blog-Writeups-black?style=for-the-badge&logo=hashnode">
+  </a>
+</p>
 
-# 💻 Tech Stack:
+---
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🚀 About Me
 
-### ✍️ A Dev Quote for You
+🔐 Passionate about Offensive & Defensive Security  
+🛡️ Focused on VAPT, SOC Operations & Threat Detection  
+💻 Strong hands-on experience with real-world exploitation & security tools  
+🎯 Actively seeking entry-level roles in Cybersecurity / SOC / VAPT  
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+---
+
+# 🛠️ Tech Stack & Tools
+
+## 🧠 Offensive Security
+
+<p>
+  <img src="https://img.shields.io/badge/Web%20Pentesting-OWASP%20Top%2010-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Network-Penetration%20Testing-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/SQLi-XSS-IDOR-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/Privilege-Escalation-critical?style=flat-square">
+</p>
+
+## 🧰 Security Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat-square&logo=burpsuite">
+  <img src="https://img.shields.io/badge/Metasploit-2596be?style=flat-square">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark">
+  <img src="https://img.shields.io/badge/Nessus-00A4EF?style=flat-square">
+  <img src="https://img.shields.io/badge/Snort-CC0000?style=flat-square">
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux">
+</p>
+
+## 💻 Programming & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash">
+  <img src="https://img.shields.io/badge/PowerShell-012456?style=flat-square&logo=powershell">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript">
+</p>
+
+## 🌐 Networking
+
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-Protocol-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web-green?style=flat-square">
+  <img src="https://img.shields.io/badge/DNS-Networking-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/SSH-Secure%20Shell-lightgrey?style=flat-square">
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+## 🔐 Poor Man’s Pentest – Automated VAPT Toolkit
+> Bash & Python toolkit for Recon, Enumeration & Privilege Escalation  
+- Automated reconnaissance modules  
+- Enumeration scripts  
+- Post-exploitation utilities  
+- Shell management automation  
+
+---
+
+## 🌐 Pawncat – Python Networking Utility
+> Lightweight networking tool for packet handling & traffic analysis  
+- Custom packet inspection  
+- Network communication utilities  
+- Python-based automation  
+
+---
+
+## 🏴‍☠️ CTF Write-Up Repository
+> Documented penetration testing techniques  
+- Real exploitation scenarios  
+- Step-by-step attack methodology  
+- Remediation explanations  
+
+---
+
+# 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OWASP-Top%2010-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IBM-Cloud%20Fundamentals-lightgrey?style=for-the-badge">
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-yadav11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-yadav11&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🧩 Currently Exploring
+
+- Advanced Web Exploitation  
+- SIEM Deep Dive  
+- Threat Hunting  
+- Active Directory Attacks  
+- Red Team Methodology  
+
+---
+
+# 🤝 Let's Connect
+
+If you're hiring for:
+- SOC Analyst  
+- VAPT Analyst  
+- Security Operations  
+- Junior Cybersecurity Engineer  
+
+Let’s connect 🚀
